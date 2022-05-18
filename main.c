@@ -3,26 +3,7 @@
 #include <limits.h>
 
 #define INFINITO 0
-//#define ULONG_MAX 18446744073709551615
 
-//void print ( long long int n) {
-//int i;
-// int iterazioni=0;
-//int numToprint[7];
-// for(i=0;i<7;i++){
-//    numToprint[i]=0;
-// }
-// for(i=7;i<=0;i--){
-// numToprint[i]=n%10;
-//   n=n/10;
-//  if(n>0){
-//  iterazioni++;}
-// }
-
-// for(i=7-iterazioni;i<7;i++){
-//  putchar((numToprint[i]) + '0');}
-
-//}
 void print ( long long int n) {
     if (n / 10 != 0)
         print(n / 10);
