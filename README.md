@@ -1,4 +1,4 @@
-# Progetto-algoritmi-e-strutture-dati-anno scolatiso 2020/2021
+# Progetto-algoritmi-e-strutture-dati-anno scolastico 2020/2021
 Progetto di algoritmi e strutture dati conseguito con 30L/30
 
 > Struttura della repo
