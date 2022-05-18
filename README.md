@@ -6,4 +6,5 @@ Progetto di algoritmi e strutture dati conseguito con 30L/30
 - main.c contiene il codice per l' implementazione della specifica 
 
 > Metodo di valutazione 
+
 La valutazone e' stata svolta mediante un tool di testing (con test privati e quindi non forniti allo studente) a seconda del quantitativo di test passati viene asseganto il voto
